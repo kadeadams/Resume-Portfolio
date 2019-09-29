@@ -1,0 +1,41 @@
+﻿  test.cpp
+c:\cs32\project4\project4\test.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\test.cpp(258): warning C4018: '>': signed/unsigned mismatch
+c:\cs32\project4\project4\test.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\trie.h(70): warning C4018: '<': signed/unsigned mismatch
+  c:\cs32\project4\project4\trie.h(67): note: while compiling class template member function 'void Trie<int>::insert(const std::string &,const ValueType &)'
+          with
+          [
+              ValueType=int
+          ]
+  c:\cs32\project4\project4\test.cpp(16): note: see reference to function template instantiation 'void Trie<int>::insert(const std::string &,const ValueType &)' being compiled
+          with
+          [
+              ValueType=int
+          ]
+  c:\cs32\project4\project4\test.cpp(14): note: see reference to class template instantiation 'Trie<int>' being compiled
+c:\cs32\project4\project4\trie.h(71): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\trie.h(43): warning C4018: '<': signed/unsigned mismatch
+  c:\cs32\project4\project4\trie.h(39): note: while compiling class template member function 'void Trie<int>::fullDelete(Trie<int>::Node *)'
+  c:\cs32\project4\project4\trie.h(56): note: see reference to function template instantiation 'void Trie<int>::fullDelete(Trie<int>::Node *)' being compiled
+  c:\cs32\project4\project4\trie.h(50): note: while compiling class template member function 'Trie<int>::Trie(void)'
+  c:\cs32\project4\project4\test.cpp(14): note: see reference to function template instantiation 'Trie<int>::Trie(void)' being compiled
+c:\cs32\project4\project4\trie.h(112): warning C4018: '<': signed/unsigned mismatch
+  c:\cs32\project4\project4\trie.h(99): note: while compiling class template member function 'std::vector<ValueType,std::allocator<_Ty>> Trie<ValueType>::findHelper(Trie<ValueType>::Node *,const std::string &,bool,int) const'
+          with
+          [
+              ValueType=int,
+              _Ty=int
+          ]
+  c:\cs32\project4\project4\trie.h(95): note: see reference to function template instantiation 'std::vector<ValueType,std::allocator<_Ty>> Trie<ValueType>::findHelper(Trie<ValueType>::Node *,const std::string &,bool,int) const' being compiled
+          with
+          [
+              ValueType=int,
+              _Ty=int
+          ]
+  Generating code
+  185 of 1071 functions (17.3%) were compiled, the rest were copied from previous compilation.
+    98 functions were new in current compilation
+    130 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project4.vcxproj -> C:\CS32\Project4\Release\Project4.exe

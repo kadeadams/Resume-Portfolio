@@ -1,0 +1,10 @@
+﻿  Genome.cpp
+c:\cs32\project4\project4\genome.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\genome.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\genome.cpp(102): warning C4018: '>=': signed/unsigned mismatch
+  test.cpp
+c:\cs32\project4\project4\test.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\test.cpp(242): warning C4018: '>': signed/unsigned mismatch
+c:\cs32\project4\project4\test.cpp(296): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project4.vcxproj -> C:\CS32\Project4\Debug\Project4.exe
