@@ -1,0 +1,13 @@
+﻿  board.cpp
+c:\resume projects\resume-projects\chessengine\chessengine\board.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\resume projects\resume-projects\chessengine\chessengine\board.cpp(108): warning C4101: 'score': unreferenced local variable
+c:\resume projects\resume-projects\chessengine\chessengine\board.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\resume projects\resume-projects\chessengine\chessengine\board.cpp(188): warning C4101: 'state': unreferenced local variable
+c:\resume projects\resume-projects\chessengine\chessengine\board.cpp(289): warning C4018: '<': signed/unsigned mismatch
+c:\resume projects\resume-projects\chessengine\chessengine\board.cpp(775): warning C4018: '<': signed/unsigned mismatch
+c:\resume projects\resume-projects\chessengine\chessengine\board.cpp(784): warning C4018: '<': signed/unsigned mismatch
+c:\resume projects\resume-projects\chessengine\chessengine\board.cpp(795): warning C4018: '<': signed/unsigned mismatch
+  engine.cpp
+  main.cpp
+  Generating Code...
+  ChessEngine.vcxproj -> C:\Resume Projects\Resume-Projects\ChessEngine\Debug\ChessEngine.exe
